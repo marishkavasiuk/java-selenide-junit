@@ -1,0 +1,4 @@
+com\socks\ui\test\BaseUITest.class
+com\socks\ui\test\utils\SelenoidWebDriverProvider.class
+com\socks\ui\test\TestLogin.class
+com\socks\ui\test\TestRegistration.class

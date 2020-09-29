@@ -1,0 +1,14 @@
+com\socks\ui\model\Cards.class
+com\socks\ui\model\Customer.class
+com\socks\ui\model\Model.class
+com\socks\ui\model\Page.class
+com\socks\ui\model\Embedded.class
+com\socks\ui\model\Self.class
+com\socks\ui\model\UserPayload.class
+com\socks\ui\model\Addresses.class
+com\socks\ui\ModelHelper.class
+com\socks\ui\model\Links.class
+com\socks\ui\pages\MainPage.class
+com\socks\ui\model\CustomerItem.class
+com\socks\ui\pages\StartPage.class
+com\socks\ui\model\UsersListResponse.class
